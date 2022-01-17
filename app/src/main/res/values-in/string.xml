@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">uts</string>
+    <!--    Layout-->
+    <!--    main activity-->
+    <string name="selamat_pagi">Selamat \nPagi</string>
+    <string name="belanja">Belanja sekarang</string>
+    <string name="minuman">MINUMAN</string>
+    <string name="makanan">MAKANAN</string>
+    <string name="produk">PRODUK</string>
+    <string name="toko">TOKO</string>
+    <string name="kopi">Kopi</string>
+    <string name="teh">Teh</string>
+    <string name="sirup">Sirup</string>
+    <!--    profile activity-->
+    <string name="deskripsi">Deskripsi</string>
+    <string name="aktivitas">AktifitasKu</string>
+    <stgitring name="transaksi">Daftar Transaksi</stgit ring>
+    <string name="wistlist">Keinginan</string>
+    <string name="ulasan">Ulasan</string>
+    <string name="bill">Top Up And Tagihan</string>
+    <!--    keranjang-->
+    <string name="pilih_item">Pilih Item</string>
+    <string name="semua">Semua</string>
+    <string name="diskon">Diskon</string>
+    <string name="beli">Beli</string>
+    <string name="pilih_semua">Pilih Semua</string>
+    <string name="ubah">ubah</string>
+    <!--    Data barang-->
+    <string name="waktu_minuman_a">10 menit</string>
+    <string name="deskripsi_minuman_a">Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream.Delightful</string>
+    <string name="waktu_minuman_b">15 menit</string>
+    <string name="deskripsi_minuman_b">Two fresh shots of espresso, hand shaken with classic syrup and ice, finished with low fat milkmixed with sweetened whipped cream.</string>
+    <string name="waktu_minuman_c">10 menit</string>
+    <string name="deskripsi_minuman_c">ASlightly sweetened ice-cold espresso, poured through a distinct layer of surprisingly creamy nonfat milk cold foam.</string>
+
+    <string name="waktu_makanan_a">20 menit</string>
+    <string name="deskripsi_makanan_a">A classic dutch cookie made from Caramel</string>
+    <string name="waktu_makanan_b">20 menit</string>
+    <string name="deskripsi_makanan_b">Engery booster cookie made from Raisin and Oats</string>
+    <string name="waktu_makanan_c">15 menit</string>
+    <string name="deskripsi_makanan_c">A classic dutch cookie made from Caramel and Chocolate</string>
+
+    <string name="deskripsi_tumblr_a">Get our cold drinkware keep your beverages frosty all day long</string>
+    <string name="deskripsi_tumblr_b">Our machines take pressing coffee to another level....check them out here</string>
+    <string name="deskripsi_tumblr_c">We have the perfect drinkware sizes that will fulfill all your coffee requirements</string>
+</resources>
