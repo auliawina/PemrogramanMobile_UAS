@@ -14,7 +14,7 @@
     <!--    profile activity-->
     <string name="deskripsi">Deskripsi</string>
     <string name="aktivitas">AktifitasKu</string>
-    <stgitring name="transaksi">Daftar Transaksi</stgit ring>
+    <string name="transaksi">Daftar Transaksi</string>
     <string name="wistlist">Keinginan</string>
     <string name="ulasan">Ulasan</string>
     <string name="bill">Top Up And Tagihan</string>
